@@ -46,6 +46,7 @@ Dados fornecidos por: https://pokeapi.co/
 
 
 ## 🛠️ Funcionalidades detalhadas
+Abaixo um exemplo da interface Swagger com os endpoints disponíveis:
 <img width="1910" height="924" alt="image" src="https://github.com/user-attachments/assets/f44ae26d-43bd-4dd6-8839-85ef58ada1b5" />
 
 
@@ -147,8 +148,9 @@ dotnet run
 http://localhost:xxxx/swagger
 ```
 
-##
-*Este projeto foi desenvolvido de forma autoral visando aprimorar técnicas de programação com .Net, com foco em arquitetura backend, consumo de APIs externas e boas práticas com ASP.NET Core.*
+## 📌 Considerações
+*Este projeto foi desenvolvido com foco em boas práticas de desenvolvimento backend utilizando .NET, incluindo: consumo de APIs externas, organização em camadas e construção de endpoints RESTful.
+O principal objetivo é aprimorar conhecimentos para possíveis aplicações reais.*
 
 ---
 <div align="center">
