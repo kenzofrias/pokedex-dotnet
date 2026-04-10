@@ -100,7 +100,6 @@ public class PokemonResponse
 {
     public int Id { get; set; }
     public string Name { get; set; }
-    public string Image { get; set; }
     public int Height { get; set; }
     public List<string> Types { get; set; }
     public List<string> Abilities { get; set; }
