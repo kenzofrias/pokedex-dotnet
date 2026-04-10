@@ -42,7 +42,7 @@ Dados fornecidos por: https://pokeapi.co/
 | BuscarNomes | `/pokemon/listOfNames` | Lista todos os pokémons desejados. |
 | BuscarPorId | `/pokemon/id/{id}` | Filtra o pokémon com determinado Id. |
 | BuscarPorNome | `/pokemon/name/{name}` | Filtra o pokémon pelo nome. |
-| BuscarPorTipo | `/pokemon/typE/{type}` | Lista pokémons por determinado tipo. |
+| BuscarPorTipo | `/pokemon/type/{type}` | Lista pokémons por determinado tipo. |
 
 
 ## 🛠️ Funcionalidades detalhadas
