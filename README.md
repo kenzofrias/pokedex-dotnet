@@ -39,10 +39,10 @@ Dados fornecidos por: https://pokeapi.co/
 
 | Ação | Rota | Descrição |
 | :--- | :--- | :--- |
-| BuscarNomes | `/pokemon/listOfNames` | Lista todos os pokémos desejados. |
+| BuscarNomes | `/pokemon/listOfNames` | Lista todos os pokémons desejados. |
 | BuscarPorId | `/pokemon/id/{id}` | Filtra o pokémon com determinado Id. |
 | BuscarPorNome | `/pokemon/name/{name}` | Filtra o pokémon pelo nome. |
-| BuscarPorTipo | `/pokemon/typo/{type}` | Edição de uma tarefa específica. |
+| BuscarPorTipo | `/pokemon/typE/{type}` | Lista pokémons por determinado tipo. |
 
 
 ## 🛠️ Funcionalidades detalhadas
