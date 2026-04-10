@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PokedexApi/PokedexApi.csproj" />
+  <Project Path="PokedexMvc/PokedexMvc.csproj" />
+</Solution>
